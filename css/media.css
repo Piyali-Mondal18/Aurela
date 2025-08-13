@@ -1,0 +1,199 @@
+*{margin:0;padding:0;font-family: "Montserrat", sans-serif;}
+h1,h2,h3,h4,h5,h6,p,ul,li{margin: 0;padding: 0}
+li{list-style: none}
+
+a{text-decoration: none}
+
+
+
+@media (max-width:1199px) and (min-width:992px){
+    .logobox img{display: block;margin: 0 auto}
+    .nav-menubox ul li{padding: 0 6px;}
+    .nav-menubox ul li a{font-size: 13px;}
+    .bannerTxt h4 {font-size: 20px;}
+    .bannerTxt h1{font-size: 40px;}
+    .bannerTxt p{font-size: 17px;margin-bottom: 9px;}
+    .heroBanner{height: 350px}
+    .btnSec .shopNow, .btnSec .readNow{font-size: 13px;padding: 9px 40px;}
+    .categorySec h2, .productSec h2{font-size: 40px}
+    .categoryItem p{font-size: 16px}
+    .categoryCon{flex-wrap: nowrap;gap: 25px;}
+    .productSec{padding-top: 0}
+    .card-img h5{font-size: 16px}
+    .card-img p{font-size: 14px}
+    .card-img .btn-shop{font-size: 13px;padding: 9px 20px;}
+    .promoSec{height: 400px;}
+    .promoTxt h5{font-size: 20px;}
+    .promoTxt h2{font-size: 40px;line-height: 45px;}
+    .promoTxt p{font-size: 17px}
+    .promoTxt a{font-size: 13px;padding: 9px 40px;}
+    .collectionSec h2{font-size: 40px;}
+    .collectionBx a h5{font-size: 16px}
+    .dealSec{padding: 0}
+    .testimonialSec h2{font-size: 40px}
+    .testiSec h4{font-size: 17px}
+    .testiSec p{font-size: 20px}
+    .fTxt h4{font-size: 20px}
+    .fTxt p{font-size: 14px}
+}
+
+
+
+@media (max-width:991px) and (min-width:768px){
+    .logobox img{display: block;margin: 0 auto}
+    .nav-menubox ul li{padding: 0 3px;}
+    .nav-menubox ul li a{font-size: 10px;}
+    .bannerTxt h4 {font-size: 20px;}
+    .bannerTxt h1{font-size: 40px;}
+    .bannerTxt p{font-size: 17px;margin-bottom: 9px;}
+    .heroBanner{height: 350px}
+    .btnSec .shopNow, .btnSec .readNow{font-size: 13px;padding: 9px 40px;}
+    .categorySec h2, .productSec h2{font-size: 30px}
+    .categoryItem p{font-size: 16px}
+    .categoryCon{flex-wrap: nowrap;gap: 25px;}
+    .productSec{padding-top: 0}
+    .card-img h5{font-size: 16px}
+    .card-img p{font-size: 14px}
+    .card-img .btn-shop{font-size: 13px;padding: 9px 20px;}
+    .promoSec{height: 350px;}
+    .promoTxt h5{font-size: 20px;}
+    .promoTxt h2{font-size: 30px;line-height: 31px;margin: 10px 0;}
+    .promoTxt p{font-size: 17px}
+    .promoTxt a{font-size: 13px;padding: 9px 40px;}
+    .collectionSec h2{font-size: 30px;}
+    .collectionBx a h5{font-size: 16px}
+    .dealSec{padding: 0}
+    .testimonialSec h2{font-size: 30px}
+    .testiSec h4{font-size: 17px}
+    .testiSec p{font-size: 20px}
+    .fTxt h4{font-size: 17px}
+    .fTxt p{font-size: 14px}
+    .collectionCon{width: auto}
+    .dealTxt h4{font-size: 15px}
+    .testimonialSec{padding-bottom: 10px;}
+    .footer_links h3{font-size: 17px}
+    .cartProd img{width: 60px}
+.cartTable .cartProd p{font-size: 16px}
+    .cartTable thead tr{font-size: 13px}
+    .checkPage h2, .order-summary h3, .thankPage h2, .rte-info h3, .title-dv h3 {
+        font-size: 30px;}
+    .order-summary h2 span{font-size: 15px;}
+    .thankPage p, .abt-content p{font-size: 17px}
+    .thankPage img{width: 100px}
+    .logoSec p{font-size: 14px;
+    line-height: 24px;margin: 0;}
+    .descSec h2{font-size: 30px}
+    .priceBx p{font-size: 20px}
+    .descSec h5{font-size: 17px;line-height: 27px}
+    .descSec h6{font-size: 17px}
+}
+
+
+@media (max-width:767px){
+      .logobox img{display: block;margin: 0 auto}
+    .nav-menubox ul li{padding: 0 3px;}
+    .nav-menubox ul li a{font-size: 10px;}
+    .bannerTxt h4 {font-size: 20px;}
+    .bannerTxt h1{font-size: 30px;}
+    .bannerTxt p{font-size: 17px;margin-bottom: 9px;}
+    .heroBanner{height: 600px;background: url(../images/mob-banner.png)no-repeat;display: block;text-align: center;background-size: cover;}
+    .btnSec .shopNow, .btnSec .readNow{font-size: 13px;padding: 9px 40px;}
+    .categorySec h2, .productSec h2{font-size: 30px}
+    .categoryItem p{font-size: 16px}
+    .categoryCon{flex-wrap: nowrap;gap: 25px;display: block;}
+    .categoryItem img{display: block;margin: 0 auto}
+/*    .productSec{padding-top: 0}*/
+    .card-img h5{font-size: 16px}
+    .card-img p{font-size: 14px}
+    .card-img .btn-shop{font-size: 13px;padding: 9px 20px;}
+    .promoSec{height: 600px;background: url(../images/promo_bg_mob.png)no-repeat;display: block;background-size: cover;}
+    .promoTxt {margin-top: 45px;text-align: center;}
+    .feature-cards{display: block;    padding: 0 20px;}
+    .feature-card{width: 100%;margin-bottom: 35px;}
+    .feature-section{padding: 40px 0}
+    .promoTxt h5{font-size: 20px;}
+    .promoTxt h2{font-size: 30px;line-height: 31px;margin: 10px 0;}
+    .promoTxt p{font-size: 17px}
+    .promoTxt a{font-size: 13px;padding: 9px 40px;}
+    .collectionSec h2{font-size: 30px;}
+    .collectionBx a h5{font-size: 16px}
+    .dealSec{padding: 0}
+    .testimonialSec h2{font-size: 30px}
+    .testiSec h4{font-size: 17px}
+    .testiSec p{font-size: 20px}
+    .fTxt h4{font-size: 17px}
+    .fTxt p{font-size: 14px}
+    .collectionCon{width: auto}
+    .dealTxt h4{font-size: 15px}
+    .testimonialSec{padding-bottom: 10px;}
+    .footer_links h3{font-size: 17px}
+        header ul.desk-header {
+        display: none;
+    }
+    .navToggle, .mob-header{display: block;}
+    .nav-menubox ul li{display: block;position: static;}
+    .nav-menubox ul li a.active{border-bottom: none}
+    .topbanner p{text-align: center}
+    
+    .cartProd img{width: 60px}
+.cartTable .cartProd p{font-size: 16px}
+    .cartTable thead tr{font-size: 13px}
+    .checkPage h2, .order-summary h3, .thankPage h2, .rte-info h3, .title-dv h3 {
+        font-size: 30px;}
+    .order-summary h2 span{font-size: 15px;}
+    .thankPage p, .abt-content p{font-size: 17px}
+    .thankPage img{width: 100px}
+    .logoSec p{font-size: 14px;
+    line-height: 24px;margin: 0;}
+    .descSec h2{font-size: 30px}
+    .priceBx p{font-size: 20px}
+    .descSec h5{font-size: 17px;line-height: 27px}
+    .descSec h6{font-size: 17px}
+    .order-summary {
+    margin-top: 30px;
+}
+    .title-dv {
+    margin-top: 30px;
+}
+    
+
+    table, thead, tbody, th, td, tr {
+        display: block;
+    }
+    thead tr {
+        display: none;
+    }
+        tr {
+        margin-bottom: 1rem;
+        border: 1px solid #ccc;
+        padding: 10px;
+        position: relative;
+    }
+        td {
+        position: relative;
+        padding-left: 50%;
+        text-align: left;
+    }
+        td::before {
+        position: absolute;
+        top: 8px;
+        left: 0px;
+        /* width: 45%; */
+        white-space: nowrap;
+        font-weight: bold;
+        content: attr(data-label);
+    }
+        .cartTable .cartProd {
+        margin-top: 33px;
+    }
+    .quantSec input{    border: 1px solid #EBEBEB;
+    padding: 5px 15px;text-align: center;}
+    .priceCart h4{font-size: 11px}
+    .checkProceed{width: 139px;
+    height: 40px;font-size: 12px;}
+    .checkshopp{    width: 140px;
+    height: 40px;font-size: 12px;}
+    .priceCart{gap:10px}
+    .cartPage h2 {
+        font-size: 30px;}
+}
